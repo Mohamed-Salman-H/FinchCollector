@@ -10,7 +10,10 @@ body {
   
   footer.page-footer {
     padding-top: 0;
-    text-align: right;
+    text-align: center;
+    background-color: skyblue;
   }
 
-  
+  .nav-wrapper {
+    background-color: skyblue;
+  }
